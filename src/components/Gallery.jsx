@@ -1,13 +1,13 @@
 // src/components/Gallery.jsx
 
-import p1 from "/public/images/p1.webp";
-import p2 from "/public/images/p2.jpg";
-import p3 from "/public/images/p3.webp"; 
-import p4 from "/public/images/p4.jpg"; 
-import p5 from "/public/images/p5.jpg";
-import p6 from "/public/images/p6.jpg"; 
-import p7 from "/public/images/p7.jpg"; 
-import p8 from "/public/images/p8.jpg"; 
+import p1 from "/images/p1.webp";
+import p2 from "/images/p2.jpg";
+import p3 from "/images/p3.webp"; 
+import p4 from "/images/p4.jpg"; 
+import p5 from "/images/p5.jpg";
+import p6 from "/images/p6.jpg"; 
+import p7 from "/images/p7.jpg"; 
+import p8 from "/images/p8.jpg"; 
 
 const images = [
   { src: p1, title: "Julie's Rabbit Ears" },
