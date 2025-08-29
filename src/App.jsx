@@ -1,9 +1,11 @@
 import Gallery from "./components/Gallery";
 
-export default function App() {
+function App() {
   return (
-    <div className="min-h-screen bg-gray-100 flex items-center justify-center">
+    <div>
       <Gallery />
     </div>
   );
 }
+
+export default App;
